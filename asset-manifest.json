@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/REACT-Portfolio-2/static/css/main.1ff31e11.css",
+    "main.js": "/REACT-Portfolio-2/static/js/main.aa413ae5.js",
+    "static/media/headshot2.png": "/REACT-Portfolio-2/static/media/headshot2.88fb51cb67fab7f2f4dd.png",
+    "static/media/trivia.png": "/REACT-Portfolio-2/static/media/trivia.5d9821897806dde5e775.png",
+    "static/media/assortedWorks.png": "/REACT-Portfolio-2/static/media/assortedWorks.7ed9ff08168a8607c271.png",
+    "static/media/backend.png": "/REACT-Portfolio-2/static/media/backend.229e682f8cd5bd3d5b3e.png",
+    "static/media/jolly.png": "/REACT-Portfolio-2/static/media/jolly.a59d492c3eda3d81408f.png",
+    "static/media/NoteTaker.png": "/REACT-Portfolio-2/static/media/NoteTaker.d5123097c8ed57976c4f.png",
+    "index.html": "/REACT-Portfolio-2/index.html",
+    "main.1ff31e11.css.map": "/REACT-Portfolio-2/static/css/main.1ff31e11.css.map",
+    "main.aa413ae5.js.map": "/REACT-Portfolio-2/static/js/main.aa413ae5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ff31e11.css",
+    "static/js/main.aa413ae5.js"
+  ]
+}
