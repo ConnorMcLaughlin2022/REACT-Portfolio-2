@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ff31e11.css",
-    "main.js": "/static/js/main.0a0812a1.js",
-    "static/media/headshot2.png": "/static/media/headshot2.88fb51cb67fab7f2f4dd.png",
-    "static/media/trivia.png": "/static/media/trivia.5d9821897806dde5e775.png",
-    "static/media/assortedWorks.png": "/static/media/assortedWorks.7ed9ff08168a8607c271.png",
-    "static/media/backend.png": "/static/media/backend.229e682f8cd5bd3d5b3e.png",
-    "static/media/jolly.png": "/static/media/jolly.a59d492c3eda3d81408f.png",
-    "static/media/NoteTaker.png": "/static/media/NoteTaker.d5123097c8ed57976c4f.png",
-    "index.html": "/index.html",
-    "main.1ff31e11.css.map": "/static/css/main.1ff31e11.css.map",
-    "main.0a0812a1.js.map": "/static/js/main.0a0812a1.js.map"
+    "main.css": "/React-Uw-Portfolio/static/css/main.1ff31e11.css",
+    "main.js": "/React-Uw-Portfolio/static/js/main.b4b1d64d.js",
+    "static/media/headshot2.png": "/React-Uw-Portfolio/static/media/headshot2.88fb51cb67fab7f2f4dd.png",
+    "static/media/trivia.png": "/React-Uw-Portfolio/static/media/trivia.5d9821897806dde5e775.png",
+    "static/media/assortedWorks.png": "/React-Uw-Portfolio/static/media/assortedWorks.7ed9ff08168a8607c271.png",
+    "static/media/backend.png": "/React-Uw-Portfolio/static/media/backend.229e682f8cd5bd3d5b3e.png",
+    "static/media/jolly.png": "/React-Uw-Portfolio/static/media/jolly.a59d492c3eda3d81408f.png",
+    "static/media/NoteTaker.png": "/React-Uw-Portfolio/static/media/NoteTaker.d5123097c8ed57976c4f.png",
+    "index.html": "/React-Uw-Portfolio/index.html",
+    "main.1ff31e11.css.map": "/React-Uw-Portfolio/static/css/main.1ff31e11.css.map",
+    "main.b4b1d64d.js.map": "/React-Uw-Portfolio/static/js/main.b4b1d64d.js.map"
   },
   "entrypoints": [
     "static/css/main.1ff31e11.css",
-    "static/js/main.0a0812a1.js"
+    "static/js/main.b4b1d64d.js"
   ]
 }
